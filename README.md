@@ -12,10 +12,10 @@ Dynamic Equations of State. Influenced by Bret Victor Dynamic Visualizations.
 - D3 for vis?
 
 ### by the master
-https://vimeo.com/worrydream
-http://worrydream.com/MediaForThinkingTheUnthinkable/
-http://worrydream.com/ExplorableExplanations/
-http://worrydream.com/KillMath/
+https://vimeo.com/worrydream <br/>
+http://worrydream.com/MediaForThinkingTheUnthinkable/ <br/>
+http://worrydream.com/ExplorableExplanations/ <br/>
+http://worrydream.com/KillMath/ <br/>
 
 ### others
-https://www.youtube.com/watch?v=TMe0WnkF1Lc
+https://www.youtube.com/watch?v=TMe0WnkF1Lc <br/>
